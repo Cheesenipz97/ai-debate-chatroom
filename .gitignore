@@ -1,0 +1,28 @@
+gitignore# Python virtual environment
+.venv/
+venv/
+env/
+
+# Python compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# PyCharm IDE settings
+.idea/
+
+# Environment variables (IMPORTANT - keeps secrets safe!)
+.env
+*.env
+
+# Output/generated files
+ai_debate_transcript.txt
+*.txt
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
