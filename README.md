@@ -218,7 +218,9 @@ pip install --upgrade gradio
 
 - GitHub: [@Cheesenipz97](https://github.com/Cheesenipz97)
 - Twitch: [Cheesenipz97](https://twitch.tv/Cheesenipz97)
+- Youtube: [Cheesenipz97]
+(https://youtube.com/@Cheesenipz97)
 
 ---
 
-**Made with ❤️ and AI chaos by Cheesenipz97**
+**Made with ❤️ by Cheesenipz97**
